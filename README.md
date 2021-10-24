@@ -14,4 +14,4 @@ https://raw.githubusercontent.com/NAV-Management/ROG71_HeadsetSpeakerSwitch/main
 Just save the bat file to your Desktop and execute it.
 
 # Preview
-[](./Preview.gif)
+![Preview](Preview.gif)
