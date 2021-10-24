@@ -4,3 +4,6 @@ This is a PowerShell script to switch from headset to speaker (and back) on the 
 
 The PowerShell script itself was converted to Base64 in the batch file to have everything needed in the batch file, so only the batch file is needed. This can be copied to the desktop for example and is executed there with a double click. 
 
+## Detailed description:
+The detailed description can be found in the Wiki:
+https://github.com/NAV-Management/ROG71_HeadsetSpeakerSwitch/wiki
