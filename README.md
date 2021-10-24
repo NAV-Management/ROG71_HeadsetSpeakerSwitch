@@ -7,3 +7,8 @@ The PowerShell script itself was converted to Base64 in the batch file to have e
 ## Detailed description:
 The detailed description can be found in the Wiki:
 https://github.com/NAV-Management/ROG71_HeadsetSpeakerSwitch/wiki
+
+# Download
+https://raw.githubusercontent.com/NAV-Management/ROG71_HeadsetSpeakerSwitch/main/Conversion%20ROG7_1%20speaker%20to%20headset%20and%20vice%20versa.bat
+## Execute
+Just save the bat file to your Desktop and execute it.
