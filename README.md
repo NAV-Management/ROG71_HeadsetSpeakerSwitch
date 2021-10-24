@@ -12,3 +12,6 @@ https://github.com/NAV-Management/ROG71_HeadsetSpeakerSwitch/wiki
 https://raw.githubusercontent.com/NAV-Management/ROG71_HeadsetSpeakerSwitch/main/Conversion%20ROG7_1%20speaker%20to%20headset%20and%20vice%20versa.bat
 ## Execute
 Just save the bat file to your Desktop and execute it.
+
+# Preview
+[](./Preview.gif)
